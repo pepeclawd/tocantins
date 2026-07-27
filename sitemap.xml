@@ -1,12 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://connect-to-tocantins.com/en/</loc><lastmod>2026-07-22</lastmod></url>
-  <url><loc>https://connect-to-tocantins.com/en/facts.html</loc><lastmod>2026-07-22</lastmod></url>
-  <url><loc>https://connect-to-tocantins.com/en/tocantins.html</loc><lastmod>2026-07-22</lastmod></url>
-  <url><loc>https://connect-to-tocantins.com/en/carbon-credits.html</loc><lastmod>2026-07-22</lastmod></url>
-  <url><loc>https://connect-to-tocantins.com/en/economics.html</loc><lastmod>2026-07-22</lastmod></url>
-  <url><loc>https://connect-to-tocantins.com/en/farms.html</loc><lastmod>2026-07-22</lastmod></url>
-  <url><loc>https://connect-to-tocantins.com/en/gallery.html</loc><lastmod>2026-07-22</lastmod></url>
-  <url><loc>https://connect-to-tocantins.com/en/about.html</loc><lastmod>2026-07-22</lastmod></url>
-  <url><loc>https://connect-to-tocantins.com/en/disclaimer.html</loc><lastmod>2026-07-22</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://connect-to-tocantins.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/"/>
+    <lastmod>2026-07-27</lastmod></url>
+  <url><loc>https://connect-to-tocantins.com/en/facts.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/facts.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/facts.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/facts.html"/>
+    <lastmod>2026-07-27</lastmod></url>
+  <url><loc>https://connect-to-tocantins.com/en/tocantins.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/tocantins.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/tocantins.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/tocantins.html"/>
+    <lastmod>2026-07-27</lastmod></url>
+  <url><loc>https://connect-to-tocantins.com/en/carbon-credits.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/carbon-credits.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/carbon-credits.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/carbon-credits.html"/>
+    <lastmod>2026-07-27</lastmod></url>
+  <url><loc>https://connect-to-tocantins.com/en/economics.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/economics.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/economics.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/economics.html"/>
+    <lastmod>2026-07-27</lastmod></url>
+  <url><loc>https://connect-to-tocantins.com/en/farms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/farms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/farms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/farms.html"/>
+    <lastmod>2026-07-27</lastmod></url>
+  <url><loc>https://connect-to-tocantins.com/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/about.html"/>
+    <lastmod>2026-07-27</lastmod></url>
+  <url><loc>https://connect-to-tocantins.com/en/viewpoint.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/viewpoint.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/viewpoint.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/viewpoint.html"/>
+    <lastmod>2026-07-27</lastmod></url>
+  <url><loc>https://connect-to-tocantins.com/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/"/>
+    <lastmod>2026-07-27</lastmod></url>
+  <url><loc>https://connect-to-tocantins.com/de/facts.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/facts.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/facts.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/facts.html"/>
+    <lastmod>2026-07-27</lastmod></url>
+  <url><loc>https://connect-to-tocantins.com/de/tocantins.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/tocantins.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/tocantins.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/tocantins.html"/>
+    <lastmod>2026-07-27</lastmod></url>
+  <url><loc>https://connect-to-tocantins.com/de/carbon-credits.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/carbon-credits.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/carbon-credits.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/carbon-credits.html"/>
+    <lastmod>2026-07-27</lastmod></url>
+  <url><loc>https://connect-to-tocantins.com/de/economics.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/economics.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/economics.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/economics.html"/>
+    <lastmod>2026-07-27</lastmod></url>
+  <url><loc>https://connect-to-tocantins.com/de/farms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/farms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/farms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/farms.html"/>
+    <lastmod>2026-07-27</lastmod></url>
+  <url><loc>https://connect-to-tocantins.com/de/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/about.html"/>
+    <lastmod>2026-07-27</lastmod></url>
+  <url><loc>https://connect-to-tocantins.com/de/viewpoint.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/viewpoint.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/viewpoint.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/viewpoint.html"/>
+    <lastmod>2026-07-27</lastmod></url>
 </urlset>

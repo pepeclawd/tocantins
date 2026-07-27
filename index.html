@@ -4,13 +4,22 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Connect to Tocantins</title>
-  <!-- Language detection / default redirect. EN is live; DE/DA/SV to follow. -->
+  <!-- Root entry. Sends German-language browsers to /de/, everyone else to /en/.
+       Crawlers / no-JS fall through to the meta-refresh default (/en/ = x-default). -->
   <link rel="canonical" href="/en/">
+  <link rel="alternate" hreflang="en" href="https://connect-to-tocantins.com/en/">
+  <link rel="alternate" hreflang="de" href="https://connect-to-tocantins.com/de/">
+  <link rel="alternate" hreflang="x-default" href="https://connect-to-tocantins.com/en/">
+  <script>
+    (function () {
+      var lang = (navigator.language || navigator.userLanguage || 'en').toLowerCase();
+      window.location.replace(lang.indexOf('de') === 0 ? './de/' : './en/');
+    })();
+  </script>
   <meta http-equiv="refresh" content="0; url=./en/">
-  <script>window.location.replace('./en/');</script>
   <link rel="icon" type="image/png" href="assets/img/favicon-64.png">
-
+</head>
 <body>
-  <p>Redirecting to <a href="./en/">Connect to Tocantins</a>…</p>
+  <p>Redirecting to <a href="./en/">Connect to Tocantins</a> · <a href="./de/">auf Deutsch</a>…</p>
 </body>
 </html>
